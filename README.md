@@ -1,4 +1,4 @@
-# Voting Blockchain App
+# Decentralized-Voting-System-Using-Ethereum-Blockchain
 
 ## Overview
 The Voting Blockchain App is a decentralized voting system built using Next.js for the frontend and Node.js with Express for the backend. This application leverages blockchain technology to ensure secure and transparent voting processes. It allows for voter registration, candidate management, and real-time voting results, all while maintaining a robust authentication system for admin users.
