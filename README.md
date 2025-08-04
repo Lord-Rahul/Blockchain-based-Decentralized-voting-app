@@ -53,7 +53,7 @@ voting-blockchain-app
 ### Installation
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Lord-Rahul/Blockchain-based-Decentralized-voting-app.git
    cd voting-blockchain-app
    ```
 
